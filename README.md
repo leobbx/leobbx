@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, my name is Léo Babaux
+* 🌍  I'm based in Toulouse, France
+* ✉️  You can contact me at [leobbx81000@gmail.com](mailto:leobbx81000@gmail.com)
+* 🚀  I'm currently student of [Bachelor in Computer Science](https://www.univ-tlse3.fr/but-specialite-informatique)
+* 🔭 I’m currently working on [Gestion Esport](https://github.com/paria12/JavaProject)
 
-<!--
-**leobbx/leobbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Some of the project I take part of
+* 🧀 [Fromagerie](https://github.com/NgPhuongThao/gestionnaireFromage)
+* 🕹️ [Gestion Esport](https://github.com/paria12/JavaProject)
+* In progress ...
 
-Here are some ideas to get you started:
+## My skill
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,c,html,css,php,sqlite,py,github,gitlab&theme=dark)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Stats
+<a href="https://github.com/leobbx">
+  <img src="https://github-readme-stats.vercel.app/api?username=leobbx&theme=github_dark&show_icons=true" alt="leobbx's GitHub Stats" />
+</a>
