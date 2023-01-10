@@ -10,7 +10,7 @@
 * In progress ...
 
 ## My skill
-![My Skills](https://skillicons.dev/icons?i=java,eclipse,c,html,css,php,sqlite,py,github,gitlab&theme=dark)
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,c,html,css,php,sqlite,py,github,gitlab&theme=dark)](https://github.com/leobbx)
 
 ## My Stats
 <a href="https://github.com/leobbx">
