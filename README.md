@@ -7,7 +7,8 @@
 ## Some of the project I take part of
 * 🧀 [Fromagerie](https://github.com/NgPhuongThao/gestionnaireFromage)
 * 🕹️ [Gestion Esport](https://github.com/paria12/JavaProject)
-* In progress ...
+* 📡 [Proxy FTP](https://github.com/leobbx/ProxyFTP)
+* 👟 [Site gestion course de relay](https://github.com/leobbx/Site_PHP_Relais)
 
 ## My skill
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse,c,html,css,php,sqlite,py,github,gitlab&theme=dark)](https://github.com/leobbx)
