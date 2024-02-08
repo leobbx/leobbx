@@ -11,7 +11,7 @@
 * 👟 [Site gestion course de relay](https://github.com/leobbx/Site_PHP_Relais)
 
 ## My skill
-[![My Skills](https://skillicons.dev/icons?i=java,eclipse,c,html,css,php,sqlite,py,github,gitlab&theme=dark)](https://github.com/leobbx)
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,c,html,css,php,sqlite,py,github,gitlab,react&theme=dark)](https://github.com/leobbx)
 
 ## My Stats
 <a href="https://github.com/leobbx">
